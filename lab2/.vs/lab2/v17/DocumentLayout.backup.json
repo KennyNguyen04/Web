@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\web app\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\web app\\lab2\\lab2\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\web app\\lab2\\lab2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\web app\\lab2\\lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\web app\\lab2\\lab2\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\web app\\lab2\\lab2\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "lab2\\Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\web app\\lab2\\lab2\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "lab2\\Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T11:00:10.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\web app\\lab2\\lab2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lab2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\web app\\lab2\\lab2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lab2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T10:52:00.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\web app\\lab2\\lab2\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab2\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\web app\\lab2\\lab2\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "lab2\\Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T10:50:47.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\web app\\lab2\\lab2\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "lab2\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\web app\\lab2\\lab2\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "lab2\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:47:42.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
