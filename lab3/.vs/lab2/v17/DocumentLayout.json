@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab3\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab3\\lab2\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab3\\lab2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab3\\lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Migrations\\20251204095008_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab2\\Migrations\\20251204095008_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab3\\lab2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab3\\lab2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab3\\lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab3\\lab2\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab3\\lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab3\\lab2\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:53:50.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "lab2\\Data\\SeedData.cs",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Data\\SeedData.cs",
+              "RelativeToolTip": "lab2\\Data\\SeedData.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:54:29.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251204095008_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Migrations\\20251204095008_InitialCreate.cs",
+              "RelativeDocumentMoniker": "lab2\\Migrations\\20251204095008_InitialCreate.cs",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Migrations\\20251204095008_InitialCreate.cs",
+              "RelativeToolTip": "lab2\\Migrations\\20251204095008_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:50:08.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\appsettings.json",
+              "RelativeDocumentMoniker": "lab2\\appsettings.json",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\appsettings.json",
+              "RelativeToolTip": "lab2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T09:48:42.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "lab2\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "lab2\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:47:25.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "lab2\\Models\\Movie.cs",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Models\\Movie.cs",
+              "RelativeToolTip": "lab2\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:44:21.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lab2",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\lab2.csproj",
+              "RelativeDocumentMoniker": "lab2\\lab2.csproj",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\lab2.csproj",
+              "RelativeToolTip": "lab2\\lab2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T09:43:59.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "lab2\\Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "lab2\\Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T11:00:10.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lab2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lab2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T10:52:00.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab2\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "lab2\\Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T10:50:47.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "lab2\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab3\\lab2\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "lab2\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:47:42.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
