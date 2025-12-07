@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab4\\lab2\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab4\\lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab4\\lab2\\migrations\\20251204103940_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\migrations\\20251204103940_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251204103940_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\Migrations\\20251204103940_InitialCreate.cs",
+              "RelativeDocumentMoniker": "lab2\\Migrations\\20251204103940_InitialCreate.cs",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\Migrations\\20251204103940_InitialCreate.cs",
+              "RelativeToolTip": "lab2\\Migrations\\20251204103940_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:39:40.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab2\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "lab2\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T10:37:04.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\appsettings.json",
+              "RelativeDocumentMoniker": "lab2\\appsettings.json",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\appsettings.json",
+              "RelativeToolTip": "lab2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T10:35:53.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

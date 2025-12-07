@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab1\\Lab1_CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC28500F-AD07-4CF4-8CA5-02E6B5845C15}|Lab1_CSharp\\Lab1_CSharp.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab1\\lab1_csharp\\lab1_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC28500F-AD07-4CF4-8CA5-02E6B5845C15}|Lab1_CSharp\\Lab1_CSharp.csproj|solutionrelative:lab1_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab1\\Lab1_CSharp\\Lab1_CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1_CSharp\\Program.cs",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab1\\Lab1_CSharp\\Lab1_CSharp\\Program.cs",
+              "RelativeToolTip": "Lab1_CSharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:49:29.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
