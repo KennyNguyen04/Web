@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\Migrations\\20251207173650_UpdateValidationRules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab2\\Migrations\\20251207173650_UpdateValidationRules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab4\\lab2\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab4\\lab2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab4\\lab2\\views\\helloworld\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\views\\helloworld\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab4\\lab2\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|solutionrelative:lab2\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F764CDFE-51C9-4400-B5EC-A6A7C27CC3DF}|lab2\\lab2.csproj|d:\\chuong trinh dai hoc\\sv nam 4 2025-2026\\webnangcao\\web\\lab4\\lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +46,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251207173650_UpdateValidationRules.cs",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\Migrations\\20251207173650_UpdateValidationRules.cs",
+              "RelativeDocumentMoniker": "lab2\\Migrations\\20251207173650_UpdateValidationRules.cs",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\Migrations\\20251207173650_UpdateValidationRules.cs",
+              "RelativeToolTip": "lab2\\Migrations\\20251207173650_UpdateValidationRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:36:51.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "lab2\\Models\\Movie.cs",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\Models\\Movie.cs",
+              "RelativeToolTip": "lab2\\Models\\Movie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:34:37.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\Views\\HelloWorld\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "lab2\\Views\\HelloWorld\\Index.cshtml.cs",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\Views\\HelloWorld\\Index.cshtml.cs",
+              "RelativeToolTip": "lab2\\Views\\HelloWorld\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:15:29.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab2\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "lab2\\Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T17:15:18.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "20251204103940_InitialCreate.cs",
               "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\Migrations\\20251204103940_InitialCreate.cs",
               "RelativeDocumentMoniker": "lab2\\Migrations\\20251204103940_InitialCreate.cs",
@@ -42,20 +110,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\Views\\Movies\\Index.cshtml",
               "RelativeDocumentMoniker": "lab2\\Views\\Movies\\Index.cshtml",
               "ToolTip": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\Views\\Movies\\Index.cshtml",
               "RelativeToolTip": "lab2\\Views\\Movies\\Index.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAAC0AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwEcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-04T10:37:04.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Chuong Trinh Dai Hoc\\SV nam 4 2025-2026\\webnangcao\\Web\\lab4\\lab2\\appsettings.json",
               "RelativeDocumentMoniker": "lab2\\appsettings.json",
@@ -63,8 +131,7 @@
               "RelativeToolTip": "lab2\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-04T10:35:53.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T10:35:53.111Z"
             }
           ]
         }
