@@ -15,5 +15,8 @@ namespace lab2.Data
         }
 
         public DbSet<lab2.Models.Movie> Movie { get; set; } = default!;
+        public DbSet<lab2.Models.Category> Category { get; set; } = default!;
+        public DbSet<lab2.Models.Customer> Customer { get; set; } = default!;
+        public DbSet<lab2.Models.Ticket> Ticket { get; set; } = default!;
     }
 }
